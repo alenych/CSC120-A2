@@ -29,9 +29,9 @@ __Yes__ 1 pt: Can successfully add a new `Computer` to the inventory
 
 __Yes__ 1 pt: Can successfully remove a `Computer` from the inventory
 
-__Part__ 1 pt: Can successfully update the price/OS of a `Computer` contained in the inventory
+__Yes__ 1 pt: Can successfully update the price/OS of a `Computer` contained in the inventory
 
-__Part__ 1 pt: Program prints appropriate error messages
+__Yes__ 1 pt: Program prints appropriate error messages
 
 ## General Items (10 pts):
 
